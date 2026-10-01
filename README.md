@@ -1,5 +1,13 @@
 <h1 align="center">👋 Hi, I'm Osama</h1>
 
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+    alt="Coder GIF" 
+    width="500"
+  >
+</p>
+
 <h3 align="center">
   💻 Full Stack .NET Developer | C# | ASP.NET Core | SQL Server
 </h3>
