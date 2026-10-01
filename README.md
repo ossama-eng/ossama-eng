@@ -1,11 +1,37 @@
+<h1 align="center">👋 Hi, I'm Osama</h1>
+
+<h3 align="center">
+  💻 Full Stack .NET Developer | C# | ASP.NET Core | SQL Server
+</h3>
+
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" 
-       alt="Hi, I'm Osama 👋 Full Stack .NET Developer 🚀">
+  <img src="https://komarev.com/ghpvc/?username=ossama-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Osama</h1>
+---
 
-<h3 align="center">💻 Full Stack .NET Developer | C# | ASP.NET Core | SQL Server</h3>
+## 🚀 About Me
+
+<p>
+I'm <strong>Osama</strong>, a Computer Science student and an aspiring 
+<strong>Full Stack .NET Developer</strong> from Cairo, Egypt 🇪🇬.
+</p>
+
+<p>
+I'm passionate about building modern, responsive, and user-friendly web
+applications. Currently, I'm focused on strengthening my skills in the
+<strong>.NET ecosystem</strong> and becoming a professional Full Stack Developer.
+</p>
+
+<p>
+I enjoy turning ideas into real projects, solving programming problems,
+working with databases, and continuously improving my development skills.
+</p>
+
+
+<p align="center">
+  <strong>💻 Code • Learn • Build • Improve 🚀</strong>
+</p>
 
 
 ## 🌐 Socials:
