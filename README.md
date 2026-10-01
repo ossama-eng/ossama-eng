@@ -1,5 +1,6 @@
-# 💫 About Me:
-**I’m currently working on:**<br>Building full-stack web applications using ASP.NET Core, C#, SQL Server, HTML, CSS, and JavaScript.<br><br>**I’m looking to collaborate on:**<br>Web development projects, open-source projects, and beginner-friendly .NET applications.<br><br>**I’m looking for help with:**<br>Improving my backend development skills, writing clean and scalable .NET applications, and following best practices.<br><br>**I’m currently learning:**<br>ASP.NET Core, Web APIs, Entity Framework Core, REST APIs, and backend development.<br><br>**Ask me about:**<br>C#, .NET, SQL Server, web development, and my projects.<br><br>**Fun fact:**<br>I enjoy turning ideas into real web projects and learning by building things from scratch.<br>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 
 
 ## 🌐 Socials:
